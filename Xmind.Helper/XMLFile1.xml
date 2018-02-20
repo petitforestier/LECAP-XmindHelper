@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmap-content xmlns="urn:xmind:xmap:xmlns:content:2.0" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" modified-by="" timestamp="1472214101157" version="2.0">
+  <sheet id="6uo326nrnvv4gbb9at8j82ovdn" modified-by="" style-id="7p945sk6rbgrgomfg8dpti7hp3" theme="xminddefaultthemeid" timestamp="1472214101157">
+    <topic id="2vtjkhoel4r6cg18v6ae7vahsf" modified-by="" structure-class="org.xmind.ui.tree.right" timestamp="1472213189735">
+      <title svg:width="500">Structure produit</title>
+      <children>
+        <topics type="attached">
+          <topic id="39dh6163v4r9ecsqs5tit23egb" modified-by="" style-id="23bve9qtp0f6ae5rk3gcd2o14e" timestamp="1472213197530">
+            <title>carrosserie</title>
+            <children>
+              <topics type="attached">
+                <topic id="49ko6kos2rrjal2i9pks8dfe1l" modified-by="" style-id="0uvthaen6d1r49kib1511hpnrv" timestamp="1472213861335">
+                  <title>RGC</title>
+                  <labels>
+                    <label>label 1</label>
+                  </labels>
+                </topic>
+                <topic id="7big15pqktkrmip3ekcelv4i6k" modified-by="" timestamp="1472213867315" xlink:href="file://C:/_LECAPITAINE_DEV/T1-Test/50ac7d44-e3d7-4c39-a8a9-37ec53df39d2.docx">
+                  <title>brique</title>
+                  <labels>
+                    <label>label2</label>
+                  </labels>
+                </topic>
+                <topic id="0u8knll3gmgja5m7563d8n3c6i" modified-by="" timestamp="1472214101157">
+                  <title>brique</title>
+                  <notes>
+                    <html>
+                      <xhtml:p>zedzedzed</xhtml:p>
+                      <xhtml:p>zed</xhtml:p>
+                      <xhtml:p>ze</xhtml:p>
+                      <xhtml:p>dz</xhtml:p>
+                      <xhtml:p>ed</xhtml:p>
+                      <xhtml:p>zed</xhtml:p>
+                    </html>
+                    <plain>
+                      zedzedzed&#13;
+                      zed&#13;
+                      ze&#13;
+                      dz&#13;
+                      ed&#13;
+                      zed
+                    </plain>
+                  </notes>
+                  <children>
+                    <topics type="attached">
+                      <topic id="3lttnmf0uf4dkc34n61om6qi6f" modified-by="" timestamp="1472214099994">
+                        <xhtml:img align="top" xhtml:src="xap:attachments/7a7it5i0leglbgsh6iud1o5205.png" />
+                      </topic>
+                    </topics>
+                  </children>
+                </topic>
+              </topics>
+            </children>
+          </topic>
+          <topic id="78aanq21oea7dc6fniv71ktlmb" modified-by="" style-id="23bve9qtp0f6ae5rk3gcd2o14e" timestamp="1472213192728">
+            <title>Chassis</title>
+            <children>
+              <topics type="attached">
+                <topic id="3mkkm2432fvivtjnmeop36mu4k" modified-by="" timestamp="1472213191588">
+                  <title>brique</title>
+                </topic>
+                <topic id="3q72eln2urgsqh2e5dfd633l8t" modified-by="" timestamp="1472213192719">
+                  <title>brique</title>
+                </topic>
+              </topics>
+            </children>
+          </topic>
+        </topics>
+      </children>
+    </topic>
+    <title>Feuille  1</title>
+  </sheet>
+</xmap-content>

@@ -1,0 +1,112 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmind.Helper.Test", "Xmind.Helper.Test\Xmind.Helper.Test.csproj", "{DFFB22DE-1EF5-498D-8A88-19C69692B199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmind.Helper", "Xmind.Helper\Xmind.Helper.csproj", "{901CC04B-00F5-4768-8D1D-E7279732A676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Tools", "..\Library\Library.Tools\Library.Tools.csproj", "{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Library", "_Library", "{A6A6BD21-8A51-422B-BBED-EE37670D874E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Test", "_Test", "{D8B789AC-35CA-4A72-B03D-E6ACEC616E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		QasCloud|Any CPU = QasCloud|Any CPU
+		QasCloud|Mixed Platforms = QasCloud|Mixed Platforms
+		QasCloud|x86 = QasCloud|x86
+		QasLocal|Any CPU = QasLocal|Any CPU
+		QasLocal|Mixed Platforms = QasLocal|Mixed Platforms
+		QasLocal|x86 = QasLocal|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Debug|x86.Build.0 = Debug|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasCloud|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasCloud|Any CPU.Build.0 = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasCloud|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasCloud|Mixed Platforms.Build.0 = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasCloud|x86.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasCloud|x86.Build.0 = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasLocal|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasLocal|Any CPU.Build.0 = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasLocal|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasLocal|Mixed Platforms.Build.0 = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasLocal|x86.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.QasLocal|x86.Build.0 = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Release|x86.ActiveCfg = Release|Any CPU
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199}.Release|x86.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Debug|x86.Build.0 = Debug|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasCloud|Any CPU.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasCloud|Any CPU.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasCloud|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasCloud|Mixed Platforms.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasCloud|x86.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasCloud|x86.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasLocal|Any CPU.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasLocal|Any CPU.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasLocal|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasLocal|Mixed Platforms.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasLocal|x86.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.QasLocal|x86.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Release|x86.ActiveCfg = Release|Any CPU
+		{901CC04B-00F5-4768-8D1D-E7279732A676}.Release|x86.Build.0 = Release|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Debug|x86.Build.0 = Debug|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasCloud|Any CPU.ActiveCfg = QasCloud|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasCloud|Any CPU.Build.0 = QasCloud|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasCloud|Mixed Platforms.ActiveCfg = QasCloud|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasCloud|Mixed Platforms.Build.0 = QasCloud|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasCloud|x86.ActiveCfg = QasCloud|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasCloud|x86.Build.0 = QasCloud|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasLocal|Any CPU.ActiveCfg = QasLocal|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasLocal|Any CPU.Build.0 = QasLocal|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasLocal|Mixed Platforms.ActiveCfg = QasLocal|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasLocal|Mixed Platforms.Build.0 = QasLocal|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasLocal|x86.ActiveCfg = QasLocal|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.QasLocal|x86.Build.0 = QasLocal|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Release|x86.ActiveCfg = Release|Any CPU
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DFFB22DE-1EF5-498D-8A88-19C69692B199} = {D8B789AC-35CA-4A72-B03D-E6ACEC616E2C}
+		{38E9E476-647E-4A43-9D61-10FBBE1CB2AF} = {A6A6BD21-8A51-422B-BBED-EE37670D874E}
+	EndGlobalSection
+EndGlobal
