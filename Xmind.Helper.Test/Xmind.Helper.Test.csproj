@@ -50,10 +50,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Library\Library.Tools\Library.Tools.csproj">
-      <Project>{38e9e476-647e-4a43-9d61-10fbbe1cb2af}</Project>
-      <Name>Library.Tools</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Xmind.Helper\Xmind.Helper.csproj">
       <Project>{901cc04b-00f5-4768-8d1d-e7279732a676}</Project>
       <Name>Xmind.Helper</Name>

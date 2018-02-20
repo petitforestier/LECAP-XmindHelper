@@ -55,12 +55,6 @@
     <Compile Include="XMindAPI.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Library\Library.Tools\Library.Tools.csproj">
-      <Project>{38e9e476-647e-4a43-9d61-10fbbe1cb2af}</Project>
-      <Name>Library.Tools</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
